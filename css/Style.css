@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(245, 226, 190);
+}
+
+.ts {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tc {
+    color: rgb(245, 31, 31);
+}
+
+Li {
+    font-weight: normal;
+}
+.bold{
+   font-weight: bold; 
+}
+.piccenter {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
